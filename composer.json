@@ -1,0 +1,17 @@
+{
+    "name": "andrius/nfq_oop2_hw",
+    "description": "NFQ OOP2 Homework",
+    "homepage": "https://github.com/AndriusIn/NFQ-OOP2-HW",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andrius Inčiura",
+            "email": "andrius.inciura@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
